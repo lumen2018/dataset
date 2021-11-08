@@ -6,4 +6,4 @@ Find the attached images from:
 提取码：vu6v
 
 
-When you download the dataset, changing img.7z.001.jpg to img.7z.001.
+When you download the dataset, changing img.7z.001.jpg to img.7z.001
